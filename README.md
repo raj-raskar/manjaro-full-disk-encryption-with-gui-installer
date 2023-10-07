@@ -1,0 +1,1 @@
+# manjaro-full-system-encryption
